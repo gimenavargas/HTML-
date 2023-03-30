@@ -1,0 +1,8 @@
+HTML:
+HTML, siglas en inglés de HyperText Markup Language,
+hace referencia al lenguaje de marcado para la elaboración 
+de páginas web.
+Es facil de usar y entender es utilizado para crear paginas web
+Permite describir hipertextos. Permite que el usuario se mueva por 
+cualquier sitio de internet haciendo clic en un texto especifico 
+_hipervinculo_.
